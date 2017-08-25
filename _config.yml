@@ -1,0 +1,11 @@
+title: Ornamental Edible
+#email: your-email@example.com
+
+
+description: >
+  Amateur gardener and beekeeper living just outside of Cambridge, UK. 
+
+url: "https://ornamentaledible.github.io"
+baseurl: ""
+
+markdown: kramdown
